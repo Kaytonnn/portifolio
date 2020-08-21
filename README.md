@@ -7,7 +7,7 @@ O controle das tarefas do projeto será realizado no GitHub
 
 ## Icones
 
-:packageNova: funcionabilidade 
-:up:atualização
-:wrench:correção de bug 
-:checkered_flag:realese
+:package: nova funcionabilidade 
+:up: atualização
+:wrench: correção de bug 
+:checkered_flag: realese
